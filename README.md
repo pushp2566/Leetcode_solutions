@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/pushp2566/Leetcode_solutions/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0045-jump-game-ii) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/pushp2566/Leetcode_solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/pushp2566/Leetcode_solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1631-path-with-minimum-effort](https://github.com/pushp2566/Leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
 ## Two Pointers
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/pushp2566/Leetcode_solutions/tree/master/0127-word-ladder) |
 | [0802-find-eventual-safe-states](https://github.com/pushp2566/Leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/pushp2566/Leetcode_solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/pushp2566/Leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
@@ -64,5 +66,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/pushp2566/Leetcode_solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/pushp2566/Leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
