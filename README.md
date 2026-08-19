@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/pushp2566/Leetcode_solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/pushp2566/Leetcode_solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1631-path-with-minimum-effort](https://github.com/pushp2566/Leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/pushp2566/Leetcode_solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/pushp2566/Leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
 | [1462-course-schedule-iv](https://github.com/pushp2566/Leetcode_solutions/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/pushp2566/Leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/pushp2566/Leetcode_solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/pushp2566/Leetcode_solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1462-course-schedule-iv](https://github.com/pushp2566/Leetcode_solutions/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/pushp2566/Leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/pushp2566/Leetcode_solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Graph Theory
 |  |
 | ------- |
@@ -61,10 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/pushp2566/Leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/pushp2566/Leetcode_solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Union-Find
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/pushp2566/Leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/pushp2566/Leetcode_solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -74,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/pushp2566/Leetcode_solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/pushp2566/Leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/pushp2566/Leetcode_solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Sorting
 |  |
 | ------- |
