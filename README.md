@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/pushp2566/Leetcode_solutions/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/pushp2566/Leetcode_solutions/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/pushp2566/Leetcode_solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/pushp2566/Leetcode_solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1631-path-with-minimum-effort](https://github.com/pushp2566/Leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/pushp2566/Leetcode_solutions/tree/master/0127-word-ladder) |
+| [0229-majority-element-ii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/pushp2566/Leetcode_solutions/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -109,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pushp2566/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
