@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/pushp2566/Leetcode_solutions/tree/master/0062-unique-paths) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/pushp2566/Leetcode_solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Greedy
 |  |
@@ -126,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/pushp2566/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/pushp2566/Leetcode_solutions/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/pushp2566/Leetcode_solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
