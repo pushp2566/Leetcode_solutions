@@ -11,18 +11,19 @@ for(int j=0;j<n;j++){
 maxi=max(maxi,freq[s[j]-'A']);
 
 int rem=j-i+1-(maxi);
-if(rem>k){
+while(rem>k){
 freq[s[i]-'A']--;
     i++;
+    rem=j-i+1-(maxi);
 // maxi=0;
 // for(int x=0;x<26;x++){
 //     maxi=max(maxi,freq[x]);
 // }
 }
 
-else{
+
     res=max(res,j-i+1);
-}
+
 
 
 
