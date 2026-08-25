@@ -14,24 +14,16 @@ int rem=j-i+1-(maxi);
 while(rem>k){
 freq[s[i]-'A']--;
     i++;
-    rem=j-i+1-(maxi);
-            maxi=0;
-            for(int x=0;x<26;x++){
-                maxi=max(maxi,freq[x]);
-            }
+   
+                    maxi=0;
+                    for(int x=0;x<26;x++){
+                        maxi=max(maxi,freq[x]);
+                    }
+                     rem=j-i+1-(maxi);
 }
-
-
-    res=max(res,j-i+1);
-
-
-
-
-
-
+  res=max(res,j-i+1);
 
 }
-
 
 return res;
     }
