@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/pushp2566/Leetcode_solutions/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0045-jump-game-ii) |
+| [0073-set-matrix-zeroes](https://github.com/pushp2566/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pushp2566/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/pushp2566/Leetcode_solutions/tree/master/0322-coin-change) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/pushp2566/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/pushp2566/Leetcode_solutions/tree/master/0127-word-ladder) |
 | [0229-majority-element-ii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/pushp2566/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/pushp2566/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/pushp2566/Leetcode_solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/pushp2566/Leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/pushp2566/Leetcode_solutions/tree/master/1970-last-day-where-you-can-still-cross) |
