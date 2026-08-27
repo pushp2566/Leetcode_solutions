@@ -9,18 +9,13 @@ public:
         int ans=1;
         while(true){
               if(upto>=n-1)return ans;
-              while(i<n &&i<=upto){
+              while(i<=upto){
                 new_upto=max(new_upto,i+nums[i]);
                 i++;
               }
               upto=new_upto;
-              ans++;
-            
-
-
+              ans++;      
         }
-
 return ans;
-
     }
 };
