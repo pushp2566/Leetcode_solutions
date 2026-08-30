@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/pushp2566/Leetcode_solutions/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/pushp2566/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pushp2566/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/pushp2566/Leetcode_solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pushp2566/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/pushp2566/Leetcode_solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
