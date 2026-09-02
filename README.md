@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/pushp2566/Leetcode_solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pushp2566/Leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1024-video-stitching](https://github.com/pushp2566/Leetcode_solutions/tree/master/1024-video-stitching) |
 | [1094-car-pooling](https://github.com/pushp2566/Leetcode_solutions/tree/master/1094-car-pooling) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/pushp2566/Leetcode_solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/pushp2566/Leetcode_solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -77,12 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/pushp2566/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/pushp2566/Leetcode_solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0518-coin-change-ii) |
+| [1024-video-stitching](https://github.com/pushp2566/Leetcode_solutions/tree/master/1024-video-stitching) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/pushp2566/Leetcode_solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pushp2566/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1024-video-stitching](https://github.com/pushp2566/Leetcode_solutions/tree/master/1024-video-stitching) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/pushp2566/Leetcode_solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Binary Search
 |  |
