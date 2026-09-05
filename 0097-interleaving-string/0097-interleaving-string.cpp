@@ -54,7 +54,7 @@ public:
         int m=s2.size();
         
         vector<vector<int>>dp(n+1,vector<int>(m+1,-1));
-        return dfs(0,0,s1,s2,s3,dp);
+        return dfs(0,0,s1,s2,s3,dp)==1;
         
 
 
