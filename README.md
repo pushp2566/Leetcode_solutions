@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/pushp2566/Leetcode_solutions/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/pushp2566/Leetcode_solutions/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/pushp2566/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pushp2566/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/pushp2566/Leetcode_solutions/tree/master/0062-unique-paths) |
+| [0091-decode-ways](https://github.com/pushp2566/Leetcode_solutions/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/pushp2566/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/pushp2566/Leetcode_solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0518-coin-change-ii) |
