@@ -4,7 +4,7 @@ public:
         int n=s1.size();
         int m=s2.size();
         if(i==n&&j==m&&i+j==s3.size())return true;
-       // if(i==n&&j==m)return false;
+  
         if(dp[i][j]!=-1)return dp[i][j];
 
         int k=i+j;
@@ -14,7 +14,7 @@ public:
              dp[i][j]=dfs(i,j+1,s1,s2,s3,dp);
             }
             else{
-                return dp[i][j]=false;
+                return dp[i][j]=0;
             }
         }
 
@@ -24,7 +24,7 @@ public:
              dp[i][j]=dfs(i+1,j,s1,s2,s3,dp);
             }
             else{
-                return dp[i][j]=false;
+                return dp[i][j]=0;
             }
         }
 
