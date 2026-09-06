@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pushp2566/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/pushp2566/Leetcode_solutions/tree/master/0010-regular-expression-matching) |
 | [0091-decode-ways](https://github.com/pushp2566/Leetcode_solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/pushp2566/Leetcode_solutions/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/pushp2566/Leetcode_solutions/tree/master/0127-word-ladder) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pushp2566/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/pushp2566/Leetcode_solutions/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/pushp2566/Leetcode_solutions/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/pushp2566/Leetcode_solutions/tree/master/0091-decode-ways) |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pushp2566/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/pushp2566/Leetcode_solutions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
