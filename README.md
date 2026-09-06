@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pushp2566/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/pushp2566/Leetcode_solutions/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/pushp2566/Leetcode_solutions/tree/master/0403-frog-jump) |
 | [0518-coin-change-ii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/pushp2566/Leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pushp2566/Leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/pushp2566/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/pushp2566/Leetcode_solutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0337-house-robber-iii) |
+| [0403-frog-jump](https://github.com/pushp2566/Leetcode_solutions/tree/master/0403-frog-jump) |
 | [0518-coin-change-ii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [1024-video-stitching](https://github.com/pushp2566/Leetcode_solutions/tree/master/1024-video-stitching) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/pushp2566/Leetcode_solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
