@@ -6,6 +6,7 @@ public:
         int n=stones.size();
         for(int i=0;i<n;i++){
             int key=stones[i];
+            if(mp.find(key)==mp.end())continue;
             for(auto x:mp[key]){
                 mp[key+x].insert(x);
                 mp[key+x-1].insert(x-1);
@@ -14,8 +15,8 @@ public:
             }
         }
 
-// if(mp.find(stones.back())==mp.end())return false;
-// return true;
+if(mp.find(stones.back())==mp.end())return false;
+return true;
    return !mp[stones.back()].empty();
 
     }
