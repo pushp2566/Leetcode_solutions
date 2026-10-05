@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pushp2566/Leetcode_solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/pushp2566/Leetcode_solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/pushp2566/Leetcode_solutions/tree/master/0075-sort-colors) |
+| [0556-next-greater-element-iii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0556-next-greater-element-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/pushp2566/Leetcode_solutions/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/pushp2566/Leetcode_solutions/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/pushp2566/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0556-next-greater-element-iii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0556-next-greater-element-iii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pushp2566/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/pushp2566/Leetcode_solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Dynamic Programming
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/pushp2566/Leetcode_solutions/tree/master/0062-unique-paths) |
+| [0556-next-greater-element-iii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0556-next-greater-element-iii) |
 ## Combinatorics
 |  |
 | ------- |
