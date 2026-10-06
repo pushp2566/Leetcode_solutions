@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/pushp2566/Leetcode_solutions/tree/master/0413-arithmetic-slices) |
 | [0518-coin-change-ii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/pushp2566/Leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0931-minimum-falling-path-sum](https://github.com/pushp2566/Leetcode_solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pushp2566/Leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1024-video-stitching](https://github.com/pushp2566/Leetcode_solutions/tree/master/1024-video-stitching) |
 | [1094-car-pooling](https://github.com/pushp2566/Leetcode_solutions/tree/master/1094-car-pooling) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/pushp2566/Leetcode_solutions/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/pushp2566/Leetcode_solutions/tree/master/0413-arithmetic-slices) |
 | [0518-coin-change-ii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0518-coin-change-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/pushp2566/Leetcode_solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1024-video-stitching](https://github.com/pushp2566/Leetcode_solutions/tree/master/1024-video-stitching) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/pushp2566/Leetcode_solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Greedy
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/pushp2566/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [0931-minimum-falling-path-sum](https://github.com/pushp2566/Leetcode_solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/pushp2566/Leetcode_solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/pushp2566/Leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/pushp2566/Leetcode_solutions/tree/master/1970-last-day-where-you-can-still-cross) |
