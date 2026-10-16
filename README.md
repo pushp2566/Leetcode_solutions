@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pushp2566/Leetcode_solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/pushp2566/Leetcode_solutions/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/pushp2566/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/pushp2566/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pushp2566/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/pushp2566/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/pushp2566/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/pushp2566/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/pushp2566/Leetcode_solutions/tree/master/0127-word-ladder) |
 | [0229-majority-element-ii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0229-majority-element-ii) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pushp2566/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/pushp2566/Leetcode_solutions/tree/master/0010-regular-expression-matching) |
+| [0049-group-anagrams](https://github.com/pushp2566/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/pushp2566/Leetcode_solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/pushp2566/Leetcode_solutions/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/pushp2566/Leetcode_solutions/tree/master/0127-word-ladder) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pushp2566/Leetcode_solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/pushp2566/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/pushp2566/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [1094-car-pooling](https://github.com/pushp2566/Leetcode_solutions/tree/master/1094-car-pooling) |
