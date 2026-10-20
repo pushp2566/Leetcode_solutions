@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/pushp2566/Leetcode_solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1631-path-with-minimum-effort](https://github.com/pushp2566/Leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/pushp2566/Leetcode_solutions/tree/master/1905-count-sub-islands) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/pushp2566/Leetcode_solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/pushp2566/Leetcode_solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2008-maximum-earnings-from-taxi](https://github.com/pushp2566/Leetcode_solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pushp2566/Leetcode_solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/pushp2566/Leetcode_solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1024-video-stitching](https://github.com/pushp2566/Leetcode_solutions/tree/master/1024-video-stitching) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/pushp2566/Leetcode_solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/pushp2566/Leetcode_solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2008-maximum-earnings-from-taxi](https://github.com/pushp2566/Leetcode_solutions/tree/master/2008-maximum-earnings-from-taxi) |
 ## Greedy
 |  |
