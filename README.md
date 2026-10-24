@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/pushp2566/Leetcode_solutions/tree/master/0413-arithmetic-slices) |
 | [0518-coin-change-ii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/pushp2566/Leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/pushp2566/Leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/pushp2566/Leetcode_solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pushp2566/Leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1024-video-stitching](https://github.com/pushp2566/Leetcode_solutions/tree/master/1024-video-stitching) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/pushp2566/Leetcode_solutions/tree/master/0127-word-ladder) |
 | [0229-majority-element-ii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/pushp2566/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/pushp2566/Leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pushp2566/Leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pushp2566/Leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2008-maximum-earnings-from-taxi](https://github.com/pushp2566/Leetcode_solutions/tree/master/2008-maximum-earnings-from-taxi) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/pushp2566/Leetcode_solutions/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/pushp2566/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/pushp2566/Leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/pushp2566/Leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pushp2566/Leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pushp2566/Leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pushp2566/Leetcode_solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/pushp2566/Leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/pushp2566/Leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1094-car-pooling](https://github.com/pushp2566/Leetcode_solutions/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/pushp2566/Leetcode_solutions/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pushp2566/Leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
