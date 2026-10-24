@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0556-next-greater-element-iii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pushp2566/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/pushp2566/Leetcode_solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1419-minimum-number-of-frogs-croaking](https://github.com/pushp2566/Leetcode_solutions/tree/master/1419-minimum-number-of-frogs-croaking) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/pushp2566/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pushp2566/Leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1419-minimum-number-of-frogs-croaking](https://github.com/pushp2566/Leetcode_solutions/tree/master/1419-minimum-number-of-frogs-croaking) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
